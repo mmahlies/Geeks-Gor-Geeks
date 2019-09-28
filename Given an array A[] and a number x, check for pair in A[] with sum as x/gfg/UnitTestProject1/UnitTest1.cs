@@ -1,5 +1,6 @@
 using gfg;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
 
 namespace UnitTestProject1
 {
@@ -9,16 +10,20 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod_array()
         {
-            int[] arr = new int[8] { 1, 2, 3, 4, 5, 11, 10, 9 };
-            bool result = ArrayOperation.CheckForPair(arr, 5);
+            List<int> list = new List<int>() { 11, 15, 6, 8, 9, 10 };
+            int[] arr = list.ToArray();
+            int target = 16;
+            bool result = ArrayOperation.CheckForPair(arr, target);
 
             Assert.AreEqual(result, true);
         }
         [TestMethod]
         public void TestMethod_hash()
         {
-            int[] arr = new int[8] { 1, 2, 3, 4, 5, 11, 10, 9 };
-            bool result = ArrayOperation.CheckForPair_Hash(arr, 5);
+            List<int> list = new List<int>() { 11, 15, 6, 8, 9, 10 };
+            int[] arr = list.ToArray();
+            int target = 16;
+            bool result = ArrayOperation.CheckForPair_Hash(arr, target);
 
             Assert.AreEqual(result, true);
         }

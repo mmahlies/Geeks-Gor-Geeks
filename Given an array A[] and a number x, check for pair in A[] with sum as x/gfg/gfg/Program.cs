@@ -62,10 +62,10 @@ namespace gfg
             bool result = false;
             Hashtable hashtable = new Hashtable();
 
-            for (int i = 0; i < arr.Length-1; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
                 // if the other pair found in the hash table
-                if (hashtable.ContainsKey(arr[i] - targetSum))
+                if (hashtable.ContainsKey(Math.Abs( arr[i] - targetSum)))
                 {
                     result = true;
                     break;
