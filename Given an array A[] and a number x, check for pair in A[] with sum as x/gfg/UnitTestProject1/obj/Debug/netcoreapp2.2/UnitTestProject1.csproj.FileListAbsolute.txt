@@ -1,0 +1,17 @@
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csprojAssemblyReference.cache
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfoInputs.cache
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfo.cs
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.deps.json
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.json
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.dev.json
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.pdb
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\gfg.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\bin\Debug\netcoreapp2.2\gfg.pdb
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CopyComplete
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.pdb

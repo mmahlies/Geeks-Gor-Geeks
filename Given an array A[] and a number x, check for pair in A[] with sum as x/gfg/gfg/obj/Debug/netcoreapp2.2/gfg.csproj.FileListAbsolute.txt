@@ -1,0 +1,11 @@
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.deps.json
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.runtimeconfig.json
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.runtimeconfig.dev.json
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.pdb
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.csprojAssemblyReference.cache
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.csproj.CoreCompileInputs.cache
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.AssemblyInfoInputs.cache
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.AssemblyInfo.cs
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.dll
+D:\My Work\Geeks for Geeks\Given an array A[] and a number x, check for pair in A[] with sum as x\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.pdb
