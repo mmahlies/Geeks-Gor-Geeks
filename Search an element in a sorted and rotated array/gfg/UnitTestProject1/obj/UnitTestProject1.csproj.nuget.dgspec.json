@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\UnitTestProject1\\UnitTestProject1.csproj": {}
+  },
+  "projects": {
+    "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\gfg\\gfg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\gfg\\gfg.csproj",
+        "projectName": "gfg",
+        "projectPath": "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\gfg\\gfg.csproj",
+        "packagesPath": "C:\\Users\\mono\\.nuget\\packages\\",
+        "outputPath": "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\gfg\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\UnitTestProject1\\UnitTestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectName": "UnitTestProject1",
+        "projectPath": "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\UnitTestProject1\\UnitTestProject1.csproj",
+        "packagesPath": "C:\\Users\\mono\\.nuget\\packages\\",
+        "outputPath": "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\UnitTestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\gfg\\gfg.csproj": {
+                "projectPath": "D:\\My Work\\Geeks for Geeks\\Search an element in a sorted and rotated array\\gfg\\gfg\\gfg.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

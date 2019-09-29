@@ -15,7 +15,8 @@ namespace UnitTestProject1
             int target = 16;
             bool result = ArrayOperation.CheckForPair(arr, target);
 
-            Assert.AreEqual(result, true);
+            Assert.AreEqual(result, true);      
+
         }
         [TestMethod]
         public void TestMethod_hash()

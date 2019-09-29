@@ -1,0 +1,11 @@
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.csprojAssemblyReference.cache
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.csproj.CoreCompileInputs.cache
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.AssemblyInfoInputs.cache
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.AssemblyInfo.cs
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.deps.json
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.runtimeconfig.json
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.runtimeconfig.dev.json
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.dll
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\bin\Debug\netcoreapp2.2\gfg.pdb
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.dll
+D:\My Work\Geeks for Geeks\Search an element in a sorted and rotated array\gfg\gfg\obj\Debug\netcoreapp2.2\gfg.pdb
