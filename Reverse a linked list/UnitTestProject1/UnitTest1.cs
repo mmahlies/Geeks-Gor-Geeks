@@ -1,0 +1,52 @@
+using LinkedList;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
+
+namespace UnitTestProject1
+{
+    [TestClass]
+    public class UnitTest1
+    {
+        [TestMethod]
+        public void TestPrint()
+        {
+            LinkedList.LinkedList linkedList = new LinkedList.LinkedList();
+            linkedList.Add(1);
+            linkedList.Add(2);
+            linkedList.Add(3);
+            linkedList.Add(4);
+            linkedList.Add(5);
+
+            List<int> expextedResult = new List<int>() { 1, 2, 3, 4, 5 };
+            List<int> result = new List<int>();
+            for (int i = 0; i < result.Count; i++)
+            {
+                Assert.AreEqual(expextedResult[i], result[i]);
+            }
+            
+        }
+
+        [TestMethod]
+        public void TestDelete()
+        {
+            LinkedList.LinkedList linkedList = new LinkedList.LinkedList();
+            linkedList.Add(1);
+            linkedList.Add(2);
+            linkedList.Add(3);
+            linkedList.Add(4);
+            linkedList.Add(5);
+
+            linkedList.Delete(3);
+            linkedList.Delete(4);
+
+
+            List<int> expextedResult = new List<int>() { 1, 2, 5 };
+            List<int> result = new List<int>();
+            for (int i = 0; i < result.Count; i++)
+            {
+                Assert.AreEqual(expextedResult[i], result[i]);
+            }
+
+        }
+    }
+}

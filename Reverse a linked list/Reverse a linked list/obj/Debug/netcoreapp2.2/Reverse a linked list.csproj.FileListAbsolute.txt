@@ -1,0 +1,14 @@
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\bin\Debug\netcoreapp2.2\Reverse a linked list.deps.json
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\bin\Debug\netcoreapp2.2\Reverse a linked list.runtimeconfig.json
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\bin\Debug\netcoreapp2.2\Reverse a linked list.runtimeconfig.dev.json
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\bin\Debug\netcoreapp2.2\Reverse a linked list.dll
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\bin\Debug\netcoreapp2.2\Reverse a linked list.pdb
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\obj\Debug\netcoreapp2.2\Reverse a linked list.csprojAssemblyReference.cache
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\obj\Debug\netcoreapp2.2\Reverse a linked list.csproj.CoreCompileInputs.cache
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\obj\Debug\netcoreapp2.2\Reverse a linked list.AssemblyInfoInputs.cache
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\obj\Debug\netcoreapp2.2\Reverse a linked list.AssemblyInfo.cs
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\obj\Debug\netcoreapp2.2\Reverse a linked list.dll
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\obj\Debug\netcoreapp2.2\Reverse a linked list.pdb
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\bin\Debug\netcoreapp2.2\LinkedList.dll
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\bin\Debug\netcoreapp2.2\LinkedList.pdb
+D:\My Work\Geeks for Geeks\Reverse a linked list\Reverse a linked list\obj\Debug\netcoreapp2.2\Reverse a linked list.csproj.CopyComplete
