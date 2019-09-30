@@ -64,6 +64,25 @@ namespace LinkedList
             return list;
         }
 
+
+        public void Revere()
+        {
+            Node current = Header;
+          
+            while (current != null)
+            {
+                // swap
+                Node tempNextCurrent  = current.Next;
+                current.Next = current.Previous;
+                current.Previous= tempNextCurrent;
+
+                // move to the next
+                current = current.Next;
+            }
+
+         
+        }
+
     }
 
 }

@@ -48,5 +48,25 @@ namespace UnitTestProject1
             }
 
         }
+
+        [TestMethod]
+        public void TestReverese()
+        {
+            LinkedList.LinkedList linkedList = new LinkedList.LinkedList();
+            linkedList.Add(1);
+            linkedList.Add(2);
+            linkedList.Add(3);
+            linkedList.Add(4);
+            linkedList.Add(5);
+            linkedList.Revere();
+            List<int> expextedResult = new List<int>() { 5,4,3,2,1 };
+            List<int> result = new List<int>();
+            for (int i = 0; i < result.Count; i++)
+            {
+                Assert.AreEqual(expextedResult[i], result[i]);
+            }
+
+        }
+
     }
 }
