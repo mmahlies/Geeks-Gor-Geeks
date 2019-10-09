@@ -1,0 +1,11 @@
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\netcoreapp2.2\Towers of Hanoi.deps.json
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\netcoreapp2.2\Towers of Hanoi.runtimeconfig.json
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\netcoreapp2.2\Towers of Hanoi.runtimeconfig.dev.json
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\netcoreapp2.2\Towers of Hanoi.dll
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\netcoreapp2.2\Towers of Hanoi.pdb
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\netcoreapp2.2\Towers of Hanoi.csprojAssemblyReference.cache
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\netcoreapp2.2\Towers of Hanoi.csproj.CoreCompileInputs.cache
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\netcoreapp2.2\Towers of Hanoi.AssemblyInfoInputs.cache
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\netcoreapp2.2\Towers of Hanoi.AssemblyInfo.cs
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\netcoreapp2.2\Towers of Hanoi.dll
+D:\My Work\Geeks for Geeks\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\netcoreapp2.2\Towers of Hanoi.pdb
