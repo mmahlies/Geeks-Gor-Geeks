@@ -6,6 +6,8 @@ namespace LinkedList
     public class LinkedList
     {
         public Node Header { get; set; }
+
+        // add the end of the linked list
         public void Add(int val)
         {
             Node current = Header;
@@ -28,6 +30,38 @@ namespace LinkedList
             node.Previous = current;
             return;
         }
+
+        // add front  of the linked list
+        public void AddFront(int val)
+        {
+            Node current = Header;
+            Node node = new Node(val);
+
+            // basic condition 
+            if (current == null)
+            {
+                Header = node;
+                return;
+            }
+
+         
+             node.Next = current;
+            Header = node;
+            return;
+        }
+
+
+        // add front  of the linked list
+        public void DeleteFront ()
+        {
+           
+            if (Header != null)
+            {
+                Header = Header.Next;
+                Header.Previous = null;
+            }
+        }
+
 
         public void Delete(int val)
         {

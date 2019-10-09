@@ -1,0 +1,10 @@
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\bin\Debug\netcoreapp2.2\rotateMatric.deps.json
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\bin\Debug\netcoreapp2.2\rotateMatric.runtimeconfig.json
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\bin\Debug\netcoreapp2.2\rotateMatric.runtimeconfig.dev.json
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\bin\Debug\netcoreapp2.2\rotateMatric.dll
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\bin\Debug\netcoreapp2.2\rotateMatric.pdb
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\obj\Debug\netcoreapp2.2\rotateMatric.csproj.CoreCompileInputs.cache
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\obj\Debug\netcoreapp2.2\rotateMatric.AssemblyInfoInputs.cache
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\obj\Debug\netcoreapp2.2\rotateMatric.AssemblyInfo.cs
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\obj\Debug\netcoreapp2.2\rotateMatric.dll
+D:\My Work\Geeks for Geeks\rotate square matrix\rotateMatric\obj\Debug\netcoreapp2.2\rotateMatric.pdb

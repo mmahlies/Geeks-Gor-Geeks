@@ -1,0 +1,11 @@
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\bin\Debug\netcoreapp2.2\rotate square matrix.deps.json
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\bin\Debug\netcoreapp2.2\rotate square matrix.runtimeconfig.json
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\bin\Debug\netcoreapp2.2\rotate square matrix.runtimeconfig.dev.json
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\bin\Debug\netcoreapp2.2\rotate square matrix.dll
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\bin\Debug\netcoreapp2.2\rotate square matrix.pdb
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\obj\Debug\netcoreapp2.2\rotate square matrix.csprojAssemblyReference.cache
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\obj\Debug\netcoreapp2.2\rotate square matrix.csproj.CoreCompileInputs.cache
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\obj\Debug\netcoreapp2.2\rotate square matrix.AssemblyInfoInputs.cache
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\obj\Debug\netcoreapp2.2\rotate square matrix.AssemblyInfo.cs
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\obj\Debug\netcoreapp2.2\rotate square matrix.dll
+C:\Users\mono\source\repos\rotate square matrix\rotate square matrix\obj\Debug\netcoreapp2.2\rotate square matrix.pdb

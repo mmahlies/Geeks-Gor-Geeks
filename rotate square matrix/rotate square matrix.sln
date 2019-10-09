@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dispaly matrix", "rotate square matrix\dispaly matrix.csproj", "{CC8A97F7-D3D4-4779-8C93-A60AFFD3B46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotateMatric", "rotateMatric\rotateMatric.csproj", "{67C8FF28-75F6-4075-8514-2FAA2761F59E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8A97F7-D3D4-4779-8C93-A60AFFD3B46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8A97F7-D3D4-4779-8C93-A60AFFD3B46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8A97F7-D3D4-4779-8C93-A60AFFD3B46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8A97F7-D3D4-4779-8C93-A60AFFD3B46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C8FF28-75F6-4075-8514-2FAA2761F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C8FF28-75F6-4075-8514-2FAA2761F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C8FF28-75F6-4075-8514-2FAA2761F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C8FF28-75F6-4075-8514-2FAA2761F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEF74010-88D8-49C5-9A76-9F4E2D72AF5B}
+	EndGlobalSection
+EndGlobal

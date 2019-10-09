@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LinkedList">
+      <HintPath>..\..\Reverse a linked list\LinkedList\bin\Debug\netstandard2.0\LinkedList.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
